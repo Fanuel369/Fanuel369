@@ -59,7 +59,10 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Fanuel369&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fanuel369)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fanuel369)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
