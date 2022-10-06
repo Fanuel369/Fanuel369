@@ -60,4 +60,4 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 ### :fire: My Stats :
 https://github-readme-streak-stats.herokuapp.com/?user=Fanuel369
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Fanuel369&theme=dark&background=000000)](https://git.io/streak-stats)
-  </body>
+</body>
