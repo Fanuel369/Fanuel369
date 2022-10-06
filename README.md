@@ -15,6 +15,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=Fanuel369&style=flat-square&color=blue" alt=""/>
 <div align="center">
-  <img src="https://giphy.com/embed/ZVik7pBtu9dNS" width="600" height="300"/>
+  <iframe src="https://giphy.com/embed/ZVik7pBtu9dNS" width="480" height="268" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/life-interesting-footage-ZVik7pBtu9dNS">via GIPHY</a></p>
 </div>
 
